@@ -1,3 +1,4 @@
 public class  User{
-		string  1
+	private String  temp1
+	
 }
